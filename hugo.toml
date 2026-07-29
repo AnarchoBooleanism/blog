@@ -1,5 +1,5 @@
 title = "Nathan Guerrero's Blog"
-baseURL = 'https://anarchbool.xyz/blog'
+baseURL = 'https://anarchbool.xyz/blog/'
 
 # This is what goes in <html lang="">
 locale = 'en-us'
