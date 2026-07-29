@@ -106,7 +106,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 [[params.socialIcons]]
 name = "cv"
-url = "https://anarchbool.dev/"
+url = "/"
 
 [[params.socialIcons]]
 name = "github"
