@@ -34,16 +34,22 @@ Builds the project for publication to the `public` directory.
 
 **NOTE**: This project is automatically deployed to GitHub Pages upon a successful push to the main branch, thanks to the CI/CD pipeline in GitHub Actions, but can be deployed anywhere else, provided that you copy the contents of the `public` folder to where a web server will be looking.
 
+### `hugo new content <PATH>/<FILE_NAME>`
+
+Creates a new content file with the specified file name to the specified path, with an automatically-set date and time. Generally, this should be to the path `content/en/posts` (e.g. `hugo new content content/en/posts/<FILE_NAME>`).
+
+Example command: `hugo new content content/en/posts/my_first_post.md`
+
 ### `hugo list <SUBCOMMAND>`
 
 Lists content for the Hugo project. Note that this command requires a subcommand after it (e.g. `all`).
 
 Here are the possible subcommands:
-- `all`: Lists all content, regardless of state.
-- `drafts`: List all draft content.
-- `expired`: Lists all expired content.
-- `future`: Lists all future content.
-- `published`: Lists all published content.
+- `all`: Lists all content, regardless of state. (e.g. `hugo list all`)
+- `drafts`: List all draft content. (e.g. `hugo list drafts`)
+- `expired`: Lists all expired content. (e.g. `hugo list expired`)
+- `future`: Lists all future content. (e.g. `hugo list future`)
+- `published`: Lists all published content. (e.g. `hugo list published`)
 
 ## Updating
 
