@@ -1,5 +1,5 @@
 title = "Nathan Guerrero's Blog"
-baseURL = 'https://anarchbool.xyz/blog/'
+baseURL = 'https://anarchbool.dev/blog/'
 
 # This is what goes in <html lang="">
 locale = 'en-us'
@@ -87,7 +87,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Nathan Guerrero's Blog"
   name = "Nathan Guerrero"
-  description = "The professional blog for Nathan Guerrero, a software developer. Note that this is separate to the main portfolio site."
+  description = "My name is Nathan Guerrero. I am a tinkerer and software developer, focused on DevOps and the back-end."
 
 # Allow to override webmanifest options
 [Languages.en-us.params.webmanifest]
