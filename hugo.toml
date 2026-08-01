@@ -118,4 +118,4 @@ url = "https://www.linkedin.com/in/nathan-guerrero-89a41919b/"
 
 [[params.socialIcons]]
 name = "rss"
-url = "/index.xml"
+url = "/blog/index.xml"
