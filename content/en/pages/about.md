@@ -6,14 +6,14 @@ exclude_from_rss: true
 ---
 This is the professional blog for Nathan Guerrero, a tinkerer and software developer, focused on DevOps and the back-end. Note that this is separate to the [main portfolio site](/home/).
 
-# Licensing
+## Licensing
 
 The code and content of this blog are licensed separately; the repository referenced for the blog is [AnarchoBooleanism/blog](https://github.com/AnarchoBooleanism/blog).
 
-## Content License
+### Content License
 All written text, blog posts, articles, and media/images in this repository are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
 
-## Code License
+### Code License
 All code, theme layouts, and scripts in this repository are licensed under the MIT License. See the text below:
 
 Copyright (c) 2026 Nathan Guerrero
