@@ -4,7 +4,9 @@ description: 'About Nathan Guerrero''s Blog'
 author: Nathan Guerrero
 exclude_from_rss: true
 ---
-This is the professional blog for Nathan Guerrero, a tinkerer and software developer, focused on DevOps and the back-end. Note that this is separate to the [main portfolio site](/home/).
+This is the professional blog for Nathan Guerrero, a tinkerer and software developer, focused on DevOps and the back-end.
+
+Please note that this is separate to the [main portfolio site](/home/).
 
 ## Licensing
 
