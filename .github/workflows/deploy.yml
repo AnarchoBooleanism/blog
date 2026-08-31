@@ -36,7 +36,7 @@ jobs:
             ${{ runner.os }}-hugomod-
       - name: Build website with Hugo
         run: |
-          echo "Building the project..."
+          printf "Building the project...\n"
           hugo build \
             --gc \
             --minify
