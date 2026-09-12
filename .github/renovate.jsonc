@@ -1,5 +1,5 @@
 {
-  // NOTE: This should be able to catch github-actions and dockerfile!
+  // NOTE: This should be able to catch github-actions and gomod!
 
   // Overall Renovate config
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
